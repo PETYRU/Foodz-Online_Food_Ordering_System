@@ -4,6 +4,8 @@ Online Food Ordering System in PHP
 
 Live Demo Link - https://foodz.devshubh.live/
 
+Sample Images - [click here](https://github.com/ShubSi26/Foodz-Online_Food_Ordering_System/tree/main/Sample%20images)
+
 # Technology Used
 <img src="https://skillicons.dev/icons?i=php,mysql,cloudflare,docker,html,css,js" />
 
