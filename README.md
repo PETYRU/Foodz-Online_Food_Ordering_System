@@ -18,7 +18,7 @@ Live Demo Link - https://foodz.devshubh.live/
 <li> Food Order 
 <li> Food Order Manage
 <li> Admin Panel
-<li> Deshbord
+<li> Dashbord
 <li> User Management
 <li> Resturent Add
 <li> Resturent Management
@@ -28,8 +28,9 @@ Live Demo Link - https://foodz.devshubh.live/
 <li> Order
 <li> Order Management
 <li> Order and Delivary Management
-<li> Etc.
-
+<li> 2FA via email OTP
+<li> Razorpay payment gateway
+<li> Email Order Confirmation 
 
 
 
