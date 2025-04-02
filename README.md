@@ -1,7 +1,16 @@
-# Online-Food-Ordering-System-in-PHP
-
+# Foodz - Online-Food-Ordering-System-in-PHP
+![](https://github.com/ShubSi26/Foodz-Online_Food_Ordering_System/blob/main/Sample%20images/home.jpg?raw=true)
 Online Food Ordering System in PHP
 
+Live Demo Link - https://foodz.devshubh.live/
+
+# Technology Used
+<img src="https://skillicons.dev/icons?i=php,mysql,cloudflare,docker,html,css,js" />
+
+|`php`|`mysql`|`cloudflare`|`docker`|`html`|`css`|`js`|
+|---|---|---|---|---|---|---|
+
+![](https://github.com/ShubSi26/Foodz-Online_Food_Ordering_System/blob/main/Sample%20images/home%20menu.jpg?raw=true)
 ### Available Features:
 
 <li> Online Food Preview
